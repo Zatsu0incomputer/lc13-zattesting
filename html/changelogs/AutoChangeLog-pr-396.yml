@@ -1,0 +1,4 @@
+author: "Destrok171"
+delete-after: True
+changes:
+  - bugfix: "SSmaptype's maptype no longer changes when setting the next map."
