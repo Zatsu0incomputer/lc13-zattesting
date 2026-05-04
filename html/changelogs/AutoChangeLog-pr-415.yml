@@ -1,4 +1,0 @@
-author: "Kitsunemitsu"
-delete-after: True
-changes:
-  - bugfix: "fixed rounds reload guns with alternate fire shared magazine"
