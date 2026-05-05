@@ -1,0 +1,7 @@
+author: "Destrok171"
+delete-after: True
+changes:
+  - bugfix: "Chunky Sweepers no longer sleep when taking damage; Extract Fuel activation is now async."
+  - bugfix: "Sirocco no longer aggros onto anything."
+  - bugfix: "Sirocco can no longer steal your Da Capo music notes."
+  - bugfix: "Big Bird now has its BreachEffect set properly (was a copypaste that accidentally overrid Punishing Bird's)."
