@@ -1,5 +1,0 @@
-author: "InsightfulParasite"
-delete-after: True
-changes:
-  - rscadd: "portrait_certain.dm"
-  - rscadd: "certain_day_portraits.dmi\nadd"
