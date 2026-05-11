@@ -1,0 +1,5 @@
+author: "Kitsunemitsu"
+delete-after: True
+changes:
+  - balance: "Drifting Fox gains a new ability"
+  - bugfix: "Drifting fox now spawns 4 umbrellas."
