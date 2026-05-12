@@ -1,5 +1,0 @@
-author: "InsightfulParasite"
-delete-after: True
-changes:
-  - rscadd: "depositors, some fluff structures."
-  - rscadd: "new code to deployers to make them send out a dir ping on the spawned mobs death."
