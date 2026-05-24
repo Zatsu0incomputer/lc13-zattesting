@@ -1,0 +1,5 @@
+author: "InsightfulParasite"
+delete-after: True
+changes:
+  - bugfix: "Several gibs making squish sounds when a person walks onto them."
+  - bugfix: "Gibspawners being very loud."
